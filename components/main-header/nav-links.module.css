@@ -6,6 +6,8 @@
     gap: 1.5rem;
     /* font-family: 'Montserrat', sans-serif; */
     font-size: 1.25rem;
+    justify-content: end;
+    margin-right: 100px;
 }
 
 .nav a {
